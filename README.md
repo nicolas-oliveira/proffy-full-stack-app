@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; align-itens: center; justify-content: center">
   <img src="./.github/proffy2x.png" width="200px" alt="proffy" style="align-self: center;"></img>
-  <img src="./.github/nlw.svg" alt="nlw"></img>
+  <img src="./.github/nlw.svg" alt="nlw" width="200px"></img>
   <h1></h1>
 </div>
 
