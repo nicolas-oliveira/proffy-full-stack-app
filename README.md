@@ -5,15 +5,31 @@
 </div>
 
 ## Comandos usados neste repositório:
+
+Criar aplicação
 ```
 yarn create react-app web --template typescript
 ```
 
+Executar aplicação
+```
+yarn start
+```
+
+Configura as rotas de navegação
+```
+yarn add react-router-dom
+```
+
+Dependência para a tipagem do router:
+```
+yarn add @types/react-router-dom -D
+```
 ## Licença
 
 Este projeto é licenciado pela MIT License -  veja em [LICENSE.md](LICENSE.md) para detalhes
 
 ## Sobre
 - Criado com a intenção de aprender e totalmente para isso :)<br>
-- Criado durante a Semana Intensiva Next level week!
+- Criado durante a Semana imersiva `Next level week` com a Rocketseat!
 
