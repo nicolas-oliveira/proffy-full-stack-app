@@ -25,6 +25,9 @@ Dependência para a tipagem do router:
 ```
 yarn add @types/react-router-dom -D
 ```
+
+<img src="./.github/proffy.png" align="center"/>
+
 ## Licença
 
 Este projeto é licenciado pela MIT License -  veja em [LICENSE.md](LICENSE.md) para detalhes
