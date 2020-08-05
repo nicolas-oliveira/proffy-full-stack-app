@@ -4,27 +4,13 @@
   <h1></h1>
 </div>
 
-## Comandos usados neste repositório:
+## O que é?
 
-Criar aplicação
-```
-yarn create react-app web --template typescript
-```
+Proffy é uma aplicação full stack desenvolvida para a comunicação entre alunos e professores permitindo que o cohecimento seja disseminado e que o mundo se torne um lugar melhor com a educação.
 
-Executar aplicação
-```
-yarn start
-```
-
-Configura as rotas de navegação
-```
-yarn add react-router-dom
-```
-
-Dependência para a tipagem do router:
-```
-yarn add @types/react-router-dom -D
-```
+### Veja os comandos usados para criar toda a aplicação!
+ - [Web](./web/README.md)
+ - [Server](./server/README.md)
 
 <img src="./.github/proffy.png" align="center"/>
 
@@ -34,5 +20,5 @@ Este projeto é licenciado pela MIT License -  veja em [LICENSE.md](LICENSE.md) 
 
 ## Sobre
 - Criado com a intenção de aprender e totalmente para isso :)<br>
-- Criado durante a Semana imersiva `Next level week` com a Rocketseat!
+- Criado durante a Semana imersiva `Next level week` com a Rocketseat :rocket: !
 
