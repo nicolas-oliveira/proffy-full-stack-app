@@ -6,7 +6,7 @@
 
 ## O que é?
 
-Proffy é uma aplicação full stack desenvolvida para a comunicação entre alunos e professores permitindo que o cohecimento seja disseminado e que o mundo se torne um lugar melhor com a educação.
+Proffy é uma aplicação full stack desenvolvida para a comunicação entre alunos e professores permitindo que o conhecimento seja disseminado e que o mundo se torne um lugar melhor com a educação.
 
 ### Veja os comandos usados para criar toda a aplicação!
  - [Web](./web/README.md)
