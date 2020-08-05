@@ -19,3 +19,8 @@ yarn add react-router-dom
 ```
 yarn add @types/react-router-dom -D
 ``` 
+
+### Comunicação com o backend
+```
+yarn add axios
+```
