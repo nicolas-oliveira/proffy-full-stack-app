@@ -46,7 +46,7 @@ React.FunctionComponent<TeacherItemProps> = ({ teacher }) => {
         Preço/Hora
         <strong>R$ { teacher.cost }</strong>
       </p>
-      <a onClick={ createNewConnetion } href={`https://wa.me/${teacher.whatsapp}`} target="_blank" >
+      <a onClick={ createNewConnetion } href={`https://wa.me/${teacher.whatsapp}`} target="_blank" rel="noopener noreferrer" >
         <img src={ whatsppIcon } alt="Whatsapp"/>
         Entrar em contato
       </a>
