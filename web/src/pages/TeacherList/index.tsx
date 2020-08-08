@@ -23,7 +23,7 @@ function TeacherList() {
           time,
         }
       })
-      alert('opa')
+
       setTeachers(response.data);
     }
   return (

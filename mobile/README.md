@@ -35,3 +35,27 @@ yarn add @react-navigation/stack
 ```
 yarn add @react-navigation/bottom-tabs
 ```
+
+## Conexão com a API
+```
+yarn add axios
+```
+
+## Armazenamento dos favoritos:
+```
+expo install @react-native-community/async-storage
+```
+
+# Desafios:
+
+- Criar o select semelhante da web com o `@react-native-community/picker`
+
+## Perguntas que ficaram em aberto no final da semana:
+- Redux morreu?
+- ContextAPI resolve os problemas da aplicação?
+- Quais as melhores bibliotecas para lidar com recursos nativos no React Native?
+- Como publicar os app na Play store e Apple Store?
+- Como escrever testes automatizados para garantir a longevidade da aplicação?
+- Como automatizar os fluxos de deploy?
+- Como capturar erros em desenvolvimento e produção de uma forma eficiente?
+- Qual as melhores práticas de todas as aplicações?
